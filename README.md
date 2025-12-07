@@ -12,3 +12,5 @@ Cyrus is an experienced and highly skilled **Electrical & Electronics Engineer**
 ### 💼 Profession
 
 **Electrical & Electronics Engineer**
+
+**Robotics & AI Engineer**
